@@ -1,4 +1,4 @@
-<img src="./assets/peulda-logo.png" height="48" />
+<img src="/profile/assets/peulda-logo.png" height="48" />
 
 # 세상의 문제를 플다
 
@@ -10,7 +10,7 @@
 
 <h1>
   <a href="https://savehome.kr/?utm_source=github&utm_medium=referral&utm_campaign=github_profile">
-    <img src="./assets/savehome-logo.png" height="32" />
+    <img src="/profile/assets/savehome-logo.png" height="32" />
   </a>
 </h1>
 
